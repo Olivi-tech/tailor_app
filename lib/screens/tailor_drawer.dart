@@ -21,7 +21,7 @@ class TailorDrawer {
           padding: EdgeInsets.zero,
           children: [
             UserAccountsDrawerHeader(
-                currentAccountPictureSize: const Size(90, 90),
+                currentAccountPictureSize: const Size(75, 75),
                 accountName: Text(user.displayName ?? ''),
                 accountEmail: Text(accountMailOrNbr!),
                 decoration: BoxDecoration(
@@ -37,6 +37,7 @@ class TailorDrawer {
                     user.photoURL ?? tailorImg,
                   ),
                 )),
+            SizedBox(height: 10),
             ListTile(
               textColor: Colors.white,
               leading: const CircleAvatar(
