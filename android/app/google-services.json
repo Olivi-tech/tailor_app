@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312602696490",
+    "project_id": "tailor-app-eec9d",
+    "storage_bucket": "tailor-app-eec9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312602696490:android:52ba68abf3839e9dea1c53",
+        "android_client_info": {
+          "package_name": "flutterstudio.dev.tailorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312602696490-6037i55bku91sfoib6am5j9mf5cfj4rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHG68QaCX3Cr0E3Mo16gaKHogdS3JowKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312602696490-6037i55bku91sfoib6am5j9mf5cfj4rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
